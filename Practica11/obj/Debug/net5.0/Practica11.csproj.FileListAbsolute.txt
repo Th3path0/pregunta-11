@@ -1,0 +1,16 @@
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\Practica11.exe
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\Practica11.deps.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\Practica11.runtimeconfig.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\Practica11.runtimeconfig.dev.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\Practica11.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\ref\Practica11.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\bin\Debug\net5.0\Practica11.pdb
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.csprojAssemblyReference.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.AssemblyInfoInputs.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.AssemblyInfo.cs
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.csproj.CoreCompileInputs.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\ref\Practica11.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.pdb
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica11\obj\Debug\net5.0\Practica11.genruntimeconfig.cache
